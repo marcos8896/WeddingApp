@@ -4,7 +4,7 @@
 
   @include('wedding-layouts.header')
 
-  @include('wedding.qrcode')
+  {{-- @include('wedding.qrcode') --}}
 
   @include('wedding-layouts.couple')
 
