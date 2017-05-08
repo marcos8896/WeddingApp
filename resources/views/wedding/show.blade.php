@@ -4,6 +4,8 @@
 
   @include('wedding-layouts.header')
 
+  @include('wedding.qrcode')
+
   @include('wedding-layouts.couple')
 
   @include('wedding-layouts.event')
