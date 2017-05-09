@@ -4,28 +4,28 @@
     <div class="row">
       <div class="display-t">
         <div class="display-tc">
-          <div class="col-md-3 col-sm-6 animate-box">
+          <div class="col-md-6 col-sm-12 animate-box">
             <div class="feature-center">
               <span class="icon">
                 <i class="icon-users"></i>
               </span>
 
               <span class="counter js-counter" data-from="0" data-to="500" data-speed="5000" data-refresh-interval="50">1</span>
-              <span class="counter-label">Estimated Guest</span>
+              <span class="counter-label">Invitados estimados</span>
 
             </div>
           </div>
-          <div class="col-md-3 col-sm-6 animate-box">
+          <div class="col-md-6 col-sm-12 animate-box">
             <div class="feature-center">
               <span class="icon">
                 <i class="icon-user"></i>
               </span>
 
               <span class="counter js-counter" data-from="0" data-to="1000" data-speed="5000" data-refresh-interval="50">1</span>
-              <span class="counter-label">We Catter</span>
+              <span class="counter-label">Atenderemos</span>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6 animate-box">
+          {{-- <div class="col-md-3 col-sm-6 animate-box">
             <div class="feature-center">
               <span class="icon">
                 <i class="icon-calendar"></i>
@@ -44,7 +44,7 @@
               <span class="counter-label">Hours Spent</span>
 
             </div>
-          </div>
+          </div> --}}
         </div>
       </div>
     </div>

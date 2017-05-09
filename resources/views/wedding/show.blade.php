@@ -18,7 +18,7 @@
 
   @include('wedding-layouts.testimonial-friends')
 
-  @include('wedding-layouts.services')
+  {{-- @include('wedding-layouts.services') --}}
 
   @include('wedding-layouts.attending')
 

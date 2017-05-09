@@ -11,7 +11,7 @@
       <div class="col-md-12 col-md-offset-0">
         <ul class="timeline animate-box">
           <li class="animate-box">
-            <div class="timeline-badge" style="background-image:url(images/omar-cheli/cheli-omar2.jpg);"></div>
+            <div class="timeline-badge" style="background-image:url(images/omar-cheli/rsz_cheli-omar2.jpg);"></div>
             <div class="timeline-panel">
               <div class="timeline-heading">
                 <h3 class="timeline-title">Donde nos conocimos</h3>
@@ -23,7 +23,7 @@
             </div>
           </li>
           <li class="timeline-inverted animate-box">
-            <div class="timeline-badge" style="background-image:url(images/omar-cheli/cheli-omar3.jpg);"></div>
+            <div class="timeline-badge" style="background-image:url(images/omar-cheli/rsz_cheli-omar3.jpg);"></div>
             <div class="timeline-panel">
               <div class="timeline-heading">
                 <h3 class="timeline-title">Nuestra primera cita</h3>
@@ -35,7 +35,7 @@
             </div>
           </li>
           <li class="animate-box">
-            <div class="timeline-badge" style="background-image:url(images/omar-cheli/cheli-omar4.jpg);"></div>
+            <div class="timeline-badge" style="background-image:url(images/omar-cheli/rsz_cheli-omar4.jpg);"></div>
             <div class="timeline-panel">
               <div class="timeline-heading">
                 <h3 class="timeline-title">Nuestra relación</h3>

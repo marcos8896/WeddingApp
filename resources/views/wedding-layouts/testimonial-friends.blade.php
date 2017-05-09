@@ -3,8 +3,8 @@
     <div class="row">
       <div class="row animate-box">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-          <span>Best Wishes</span>
-          <h2>Friends Wishes</h2>
+          <span>Los mejores deseos</span>
+          <h2>Buenos deseos de nuestros amigos</h2>
         </div>
       </div>
       <div class="row">
@@ -16,9 +16,9 @@
                   <figure>
                     <img src="images/couple-1.jpg" alt="user">
                   </figure>
-                  <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                  <span>John Doe</span>
                   <blockquote>
-                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"</p>
+                    <p>“Son el uno para el otro y mi deseo es que su amor perdure por toda la vida, muchas felicidades por su matrimonio.”</p>
                   </blockquote>
                 </div>
               </div>
@@ -27,9 +27,9 @@
                   <figure>
                     <img src="images/couple-2.jpg" alt="user">
                   </figure>
-                  <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                  <span>Andrea</span>
                   <blockquote>
-                    <p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, at the coast of the Semantics, a large language ocean."</p>
+                    <p>“Que bonito es cuando al final es el amor el que termina triunfando ante la adversidad, los felicito y les deseo mucho éxitos en su matrimonio.”</p>
                   </blockquote>
                 </div>
               </div>
@@ -38,9 +38,9 @@
                   <figure>
                     <img src="images/couple-3.jpg" alt="user">
                   </figure>
-                  <span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+                  <span>Manuel</span>
                   <blockquote>
-                    <p>"Far far away, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+                    <p>“Hoy han dado el primer paso de lo que será una vida llena de felicidad para ambos, que el amor reine por siempre en su matrimonio.”</p>
                   </blockquote>
                 </div>
               </div>
