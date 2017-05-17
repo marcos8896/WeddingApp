@@ -4,7 +4,6 @@
       <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
         <span>Nuestros recuerdos</span>
         <h2>Galería de boda</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
       </div>
     </div>
     <div class="row row-bottom-padded-md">

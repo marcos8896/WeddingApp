@@ -24,7 +24,7 @@
                   <span>Lunes 28</span>
                   <span>Noviembre, 2017</span>
                 </div>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <p class="text-justify">La ceremonia religiosa se llevará a cabo en la Santa Iglesia Catedral. Se encuentra ubicada en el centro historico de Ciudad Guzmán, Jalisco.</p>
               </div>
             </div>
             <div class="col-md-6 col-sm-6 text-center">
@@ -40,7 +40,7 @@
                   <span>Lunes 28</span>
                   <span>Noviembre, 2016</span>
                 </div>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                <p class="text-justify"> La fiesta se llevará a cabo en el salón de eventos "Casa Grande" ubicada en Cordero #33, colonia Centro, Jalisco.</p>
               </div>
             </div>
           </div>

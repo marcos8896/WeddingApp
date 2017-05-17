@@ -14,7 +14,7 @@
         </div>
         <div class="desc-groom">
           <h3>Omar Moreno</h3>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
+          <p>No puedo describir la felicidad que siento al saber que nuestro día se aproxima. Estaría muy agradecido con tu visita en este día tan especial para nosotros.</p>
         </div>
       </div>
       <p class="heart text-center"><i class="icon-heart2"></i></p>
@@ -24,7 +24,7 @@
         </div>
         <div class="desc-bride">
           <h3>Araceli Esteban</h3>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
+          <p>Estoy muy contenta, ya que nuestro gran día se aproxima. Nada nos haría más feliz que compartir esta grata felicidad con nosotros.</p>
         </div>
       </div>
     </div>
