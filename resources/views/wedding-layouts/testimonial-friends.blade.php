@@ -14,7 +14,7 @@
               <div class="item">
                 <div class="testimony-slide active text-center">
                   <figure>
-                    <img src="images/couple-1.jpg" alt="user">
+                    <img src="images/friends/friend1.jpg" alt="user">
                   </figure>
                   <span>John Doe</span>
                   <blockquote>
@@ -25,9 +25,9 @@
               <div class="item">
                 <div class="testimony-slide active text-center">
                   <figure>
-                    <img src="images/couple-2.jpg" alt="user">
+                    <img src="images/friends/friend2.jpg" alt="user">
                   </figure>
-                  <span>Andrea</span>
+                  <span>Shaela</span>
                   <blockquote>
                     <p>“Que bonito es cuando al final es el amor el que termina triunfando ante la adversidad, los felicito y les deseo mucho éxitos en su matrimonio.”</p>
                   </blockquote>
@@ -36,7 +36,7 @@
               <div class="item">
                 <div class="testimony-slide active text-center">
                   <figure>
-                    <img src="images/couple-3.jpg" alt="user">
+                    <img src="images/friends/friend3.jpg" alt="user">
                   </figure>
                   <span>Manuel</span>
                   <blockquote>

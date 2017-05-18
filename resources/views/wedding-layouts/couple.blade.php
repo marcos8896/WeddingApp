@@ -10,7 +10,7 @@
     <div class="couple-wrap animate-box">
       <div class="couple-half">
         <div class="groom">
-          <img src="images/groom.jpg" alt="groom" class="img-responsive">
+          <img src="images/omar-cheli/omar.jpg" alt="groom" class="img-responsive">
         </div>
         <div class="desc-groom">
           <h3>Omar Moreno</h3>
